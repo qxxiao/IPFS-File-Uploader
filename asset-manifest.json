@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IPFS-File-Upload/static/css/main.b2d51885.chunk.css",
+    "main.js": "/IPFS-File-Upload/static/js/main.873bb56f.chunk.js",
+    "main.js.map": "/IPFS-File-Upload/static/js/main.873bb56f.chunk.js.map",
+    "runtime-main.js": "/IPFS-File-Upload/static/js/runtime-main.ade18560.js",
+    "runtime-main.js.map": "/IPFS-File-Upload/static/js/runtime-main.ade18560.js.map",
+    "static/js/2.8b7bc6b6.chunk.js": "/IPFS-File-Upload/static/js/2.8b7bc6b6.chunk.js",
+    "static/js/2.8b7bc6b6.chunk.js.map": "/IPFS-File-Upload/static/js/2.8b7bc6b6.chunk.js.map",
+    "static/js/3.ab230a76.chunk.js": "/IPFS-File-Upload/static/js/3.ab230a76.chunk.js",
+    "static/js/3.ab230a76.chunk.js.map": "/IPFS-File-Upload/static/js/3.ab230a76.chunk.js.map",
+    "index.html": "/IPFS-File-Upload/index.html",
+    "static/css/main.b2d51885.chunk.css.map": "/IPFS-File-Upload/static/css/main.b2d51885.chunk.css.map",
+    "static/js/2.8b7bc6b6.chunk.js.LICENSE.txt": "/IPFS-File-Upload/static/js/2.8b7bc6b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ade18560.js",
+    "static/js/2.8b7bc6b6.chunk.js",
+    "static/css/main.b2d51885.chunk.css",
+    "static/js/main.873bb56f.chunk.js"
+  ]
+}
