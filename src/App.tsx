@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={"http://pic.qxxiao.cn/20211029114229.png"} className="App-logo" alt="logo" />
+        <img src={"https://pic.qxxiao.cn/20211029114229.png"} className="App-logo" alt="logo" />
         <p>
           IPFS-File-Load
         </p>
