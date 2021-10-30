@@ -1,0 +1,40 @@
+.header-div {
+	height: 10vh;
+	background-color: #282c34;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	font-size: calc(10px + 3vmin);
+	color: white;
+}
+
+.header-img > img {
+	margin-left: 1vw;
+	margin-right: 1vw;
+	height: 7vh;
+	flex-flow: left;
+}
+.header-title {
+	flex: 1;
+	text-align: left;
+}
+
+.header-link {
+	text-align: right;
+	justify-self: flex-end;
+}
+
+.gateway {
+	flex: 1;
+	margin-right: 3vw;
+}
+
+.github {
+	flex: 0 0 auto;
+	margin-right: 2vw;
+}
+
+.header-link > .link {
+	color: #61dafb;
+}
