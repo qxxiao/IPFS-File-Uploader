@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/IPFS-File-Uploader/static/css/main.51f09e0e.chunk.css",
-    "main.js": "/IPFS-File-Uploader/static/js/main.cfbbac2c.chunk.js",
-    "main.js.map": "/IPFS-File-Uploader/static/js/main.cfbbac2c.chunk.js.map",
+    "main.js": "/IPFS-File-Uploader/static/js/main.6e2e6e54.chunk.js",
+    "main.js.map": "/IPFS-File-Uploader/static/js/main.6e2e6e54.chunk.js.map",
     "runtime-main.js": "/IPFS-File-Uploader/static/js/runtime-main.d76a367f.js",
     "runtime-main.js.map": "/IPFS-File-Uploader/static/js/runtime-main.d76a367f.js.map",
     "static/css/2.a95be28f.chunk.css": "/IPFS-File-Uploader/static/css/2.a95be28f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.a7d0b919.chunk.js",
     "static/css/main.51f09e0e.chunk.css",
-    "static/js/main.cfbbac2c.chunk.js"
+    "static/js/main.6e2e6e54.chunk.js"
   ]
 }
