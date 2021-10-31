@@ -13,13 +13,15 @@ function InputFile(props: any) {
 	const [uploading, setUploading] = useState<boolean>(false);
 
 	const uploadProps = {
-		onRemove: (file: UploadFile<any>): boolean => {
+		onRemove: (file: UploadFile): boolean => {
 			setFileList(list => {
 				const index = list.indexOf(file);
 				const newFileList = list.slice();
 				newFileList.splice(index, 1);
 				return newFileList;
 			});
+			props.changeCid('');
+			props.changePercent(0);
 			return true;
 		},
 		beforeUpload: (file: UploadFile): boolean => {
@@ -61,11 +63,11 @@ function InputFile(props: any) {
 				setUploading(false);
 				message.success('上传文件成功!');
 			}
-			props.changePercent(pct);
+			props.changePercent(parseInt(pct.toFixed()));
 		};
 
-		return client.put(fileList, {
-			name: fileList[0].name,
+		return await client.put(fileList, {
+			// name: fileList[0].name, //中文报错
 			wrapWithDirectory: false,
 			maxRetries: 3,
 			onRootCidReady,
