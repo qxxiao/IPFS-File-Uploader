@@ -23,7 +23,7 @@ function MyHeader() {
 			<div className="header-link github">
 				<a
 					className="link"
-					href="https://github.com/qxxiao/IPFS-File-Upload"
+					href="https://github.com/qxxiao/IPFS-File-Uploader"
 					target="_blank"
 					rel="noopener noreferrer"
 				>

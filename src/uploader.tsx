@@ -68,6 +68,7 @@ function InputFile(props: any) {
 
 		return await client.put(fileList, {
 			// name: fileList[0].name, //中文报错
+			name: encodeURIComponent(fileList[0].name),
 			wrapWithDirectory: false,
 			maxRetries: 3,
 			onRootCidReady,
