@@ -14,5 +14,5 @@ Gateways checker:
 -   [https://ipfs.github.io/public-gateway-checker/](https://ipfs.github.io/public-gateway-checker/)
 
 **And also hosted in IPFS**:  
-[https://dweb.link/ipfs/bafybeifkrovwq3avaee6iali4dwvcfoukbasexref4hkkqc72gxa6bl2be](https://dweb.link/ipfs/bafybeifkrovwq3avaee6iali4dwvcfoukbasexref4hkkqc72gxa6bl2be)  
-[https://ipfs.io/ipfs/bafybeifkrovwq3avaee6iali4dwvcfoukbasexref4hkkqc72gxa6bl2be](https://ipfs.io/ipfs/bafybeifkrovwq3avaee6iali4dwvcfoukbasexref4hkkqc72gxa6bl2be)
+<a href="https://dweb.link/ipfs/bafybeifkrovwq3avaee6iali4dwvcfoukbasexref4hkkqc72gxa6bl2be" target="_blank">https://dweb.link/ipfs/bafybeifkrovwq3avaee6iali4dwvcfoukbasexref4hkkqc72gxa6bl2be</a>  
+<a href="https://ipfs.io/ipfs/bafybeifkrovwq3avaee6iali4dwvcfoukbasexref4hkkqc72gxa6bl2be" target="_blank">https://ipfs.io/ipfs/bafybeifkrovwq3avaee6iali4dwvcfoukbasexref4hkkqc72gxa6bl2be</a>
