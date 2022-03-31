@@ -6,12 +6,13 @@ You can use this tool to upload files for free, get the CID of the file, and acc
 
 Common gateway:  
 [https://ipfs.io/\<**CID**\>](...)  
-[https://dweb.link/\<**CID**\>](...)  
-  
+[https://dweb.link/\<**CID**\>](...)
+
 Gateways checker:
-* [https://dweb.link/ipns/ipnso.com/](https://dweb.link/ipns/ipnso.com/)
-* [https://ipfs.github.io/public-gateway-checker/](https://ipfs.github.io/public-gateway-checker/)
-  
+
+-   [https://dweb.link/ipns/ipnso.com/](https://dweb.link/ipns/ipnso.com/)
+-   [https://ipfs.github.io/public-gateway-checker/](https://ipfs.github.io/public-gateway-checker/)
 
 **And also hosted in IPFS**:  
-[https://dweb.link/ipfs/QmWsmrG89Phzh6gdT1ZeQNKegnGzYaJWGaVH4GnUFzfMEA](https://dweb.link/ipfs/QmWsmrG89Phzh6gdT1ZeQNKegnGzYaJWGaVH4GnUFzfMEA)
+[https://dweb.link/ipfs/bafybeifkrovwq3avaee6iali4dwvcfoukbasexref4hkkqc72gxa6bl2be](https://dweb.link/ipfs/bafybeifkrovwq3avaee6iali4dwvcfoukbasexref4hkkqc72gxa6bl2be)  
+[https://ipfs.io/ipfs/bafybeifkrovwq3avaee6iali4dwvcfoukbasexref4hkkqc72gxa6bl2be](https://ipfs.io/ipfs/bafybeifkrovwq3avaee6iali4dwvcfoukbasexref4hkkqc72gxa6bl2be)
